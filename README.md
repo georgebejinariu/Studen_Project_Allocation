@@ -8,4 +8,5 @@ For example, you can find here an implementation of Abraham et al's (2007) algor
 
 Abraham, D.J., Irving, R.W., and Manlove, D.M. (2007) Two algorithms for the student-project allocation problem. Journal of Discrete Algorithms, 5(1), pp. 73-90. (doi:10.1016/j.jda.2006.03.006)
 
-Here I implement some recursive versions aiming to obtain an optimal solution of the problem. 
+Here I implement some recursive versions in C++ and Python aiming to obtain an optimal solution of the problem. 
+The main idea of my algorithm is to recursively split the satisfaction matrix into smaller ones, starting from the least desired project to the most desired project.
