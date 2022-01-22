@@ -8,3 +8,4 @@ For example, you can find here an implementation of Abraham et al's (2007) algor
 
 Abraham, D.J., Irving, R.W., and Manlove, D.M. (2007) Two algorithms for the student-project allocation problem. Journal of Discrete Algorithms, 5(1), pp. 73-90. (doi:10.1016/j.jda.2006.03.006)
 
+Here I implement some recursive versions aiming to obtain an optimal solution of the problem. 
